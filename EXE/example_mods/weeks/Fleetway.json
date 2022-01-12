@@ -1,0 +1,31 @@
+{
+	"storyName": "HAHAHAH. Lets See How Fast you can Really GO..",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "EXE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Chaos",
+			"Fleetway",
+			[
+				180,
+				160,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": ""
+}

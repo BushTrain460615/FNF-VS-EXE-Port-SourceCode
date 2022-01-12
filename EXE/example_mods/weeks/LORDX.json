@@ -1,0 +1,31 @@
+{
+	"storyName": "ROUND 2",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cycles",
+			"LORD X",
+			[
+				120,
+				153,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "LORDX"
+}

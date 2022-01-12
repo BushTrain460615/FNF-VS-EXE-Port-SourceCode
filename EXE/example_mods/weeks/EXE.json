@@ -1,0 +1,49 @@
+{
+	"storyName": "Chaos",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"too-slow",
+			"EXE",
+			[
+				0,
+				133,
+				253
+			]
+		],
+		[
+			"you-cant-run",
+			"youcantrun",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"triple-trouble",
+			"tails",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "EXE"
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "He is not Real. Trust me..",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "EXE",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Faker",
+			"Faker",
+			[
+				0,
+				73,
+				255
+			]
+		],
+		[
+			"Black-Sun",
+			"Amogblacksun",
+			[
+				6,
+				0,
+				133
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				141,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "X_Idle instance"
+		},
+		{
+			"offsets": [
+				161,
+				-179
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "X_Left instance"
+		},
+		{
+			"offsets": [
+				223,
+				-213
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "X_Down instance"
+		},
+		{
+			"offsets": [
+				188,
+				-96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "X_Up instance"
+		},
+		{
+			"offsets": [
+				80,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "X_Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LORDX",
+	"position": [
+		150,
+		-140
+	],
+	"healthicon": "LORD X",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		-130,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-241
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICmoveIDLE"
+		},
+		{
+			"offsets": [
+				120,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICmoveLEFT"
+		},
+		{
+			"offsets": [
+				103,
+				-252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICmoveDOWN"
+		},
+		{
+			"offsets": [
+				30,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICmoveUP"
+		},
+		{
+			"offsets": [
+				20,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICmoveRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-239
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SONIClaugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "IMKING",
+			"loop": false,
+			"name": "sonicImmagetya"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic_EXE_Assets",
+	"position": [
+		170,
+		-80
+	],
+	"healthicon": "EXE",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		81,
+		255
+	],
+	"camera_position": [
+		-150,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

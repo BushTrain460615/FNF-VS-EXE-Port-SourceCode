@@ -1,0 +1,31 @@
+{
+	"storyName": "Trapped Forever...",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Execution",
+			"LORDX",
+			[
+				120,
+				153,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "PRISON"
+}
